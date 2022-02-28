@@ -1,0 +1,1 @@
+jupyter nbconvert --to pdf HW_4_SP22.ipynb
